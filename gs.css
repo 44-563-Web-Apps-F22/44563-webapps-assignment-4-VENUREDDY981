@@ -9,6 +9,10 @@
     color: black;
     
 }
+.name:hover{
+    border: solid 2px rgb(91, 53, 109);
+    text-shadow: 3px 3px 3px orange;
+}
 .direction{background-color: beige;font-family: 'Courier New', Courier, monospace; font-size: 10px;color: black;}
 .direction:hover{
     background-color: aqua;
