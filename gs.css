@@ -21,6 +21,9 @@
 .Zara{
     color: rgb(85, 83, 212);
 }
+.King{
+    color:rgb(6, 95, 43);
+}
 table,td,th{
     margin: 1px solid black;
     padding: 2px;
